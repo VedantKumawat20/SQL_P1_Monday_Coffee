@@ -33,4 +33,16 @@ The company has significant amounts of data on its sales, product offerings, cit
 #### Objective--
 The goal of this project is to analyze the sales data of Monday Coffee, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
-### 2.	Data Structure Overview-
+### 2. Data Sources-
+#### Sales Data--
+#### Customers Data--
+#### Products Data--
+#### City Data--
+
+
+
+
+### 3.	Data Structure Overview-
+EER Diagram
+<br>
+Monday coffee data structure as seen below consists of four tables: sales, customers, products, and city with a total row count of 10,927.
