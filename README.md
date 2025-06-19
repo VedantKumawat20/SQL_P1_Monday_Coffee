@@ -5,7 +5,11 @@ This study uses SQL to…
 <br>
 The goal is to predict which….
 
-### 1.	Background and Overview- 
+### . Table of Contents
+[Background and Overview](#1.Background-and-Overview-)
+
+
+### 1. Background and Overview- 
 #### Project Background--
 Monday Coffee, established in January 2023, has successfully sold its products online and received an overwhelmingly positive respone in several cities.
 <br>
@@ -34,15 +38,35 @@ The company has significant amounts of data on its sales, product offerings, cit
 The goal of this project is to analyze the sales data of Monday Coffee, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
 ### 2. Data Sources-
-#### Sales Data--
+#### Sales Data--  The primary dataset used for this analysis is the "sales_sql.csv" file, containing detailed information about each sale made by the company.
 #### Customers Data--
 #### Products Data--
 #### City Data--
 
+### 3. Tools-
+- Excel - Data Cleaning/Transfromation
+- MySQL Workbench - Data Analysis
 
+### 4. Data Cleaning/Preparation-
+#### In the initial data preparation phase, we performed the following tasks:
+- Data loading and inspection.
+- Data cleaning and formating.
 
+### 5. Data Analysis-
+include some code you worked with
 
-### 3.	Data Structure Overview-
+### 6. Results/Findings-
+The analysis results are summarized as follows:
+
+### 7. Recommendations-
+Based on the analysis, we recommend the following actions:
+
+### 8. Limitations-
+remove or exclude recordes to do analysis
+
+### 9. References-
+
+### 4.	Data Structure Overview-
 EER Diagram
 <br>
 Monday coffee data structure as seen below consists of four tables: sales, customers, products, and city with a total row count of 10,927.
