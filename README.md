@@ -1,6 +1,5 @@
 # SQL_P1_Monday_Coffee
 ## Data Analysis Project 1 (SQL)
-
 This study uses SQL to…
 <br>
 The goal is to predict which….
@@ -8,6 +7,11 @@ The goal is to predict which….
 ### . Table of Contents
 [Background and Overview](#1.Background-and-Overview-)
 
+😃
+**bold**
+*italic*
+---
+line
 
 ### 1. Background and Overview- 
 #### Project Background--
@@ -66,7 +70,27 @@ remove or exclude recordes to do analysis
 
 ### 9. References-
 
-### 4.	Data Structure Overview-
+### 10.	Data Structure Overview-
 EER Diagram
 <br>
 Monday coffee data structure as seen below consists of four tables: sales, customers, products, and city with a total row count of 10,927.
+![Screenshot (112)](https://github.com/user-attachments/assets/d9f2c697-43a2-4c75-a928-caa88b3b9bd5)
+
+(Prior to begnning the analysis, a variety of checks were conducted for quality control and famaliarization with the dataset. The SQL quaries utilized to instep and perform quality check can be found here.)
+
+### 11. Executive Summary –  summary about main findings (BI)
+
+Sales trends
+Product performance 
+
+### 12.	Insights Deep Dive – 
+
+-	Quantified value
+-	Business metric
+-	Simple story about historical trend
+
+### 6.	Recommendations- 
+
+-	Usefulness of project
+
+
