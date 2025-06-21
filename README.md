@@ -63,6 +63,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, and to r
 EER Diagram
 <br>
 Monday coffee data structure as seen below consists of four tables: sales, customers, products, and city with a total row count of 10,927.
+
 ![Screenshot (112)](https://github.com/user-attachments/assets/d9f2c697-43a2-4c75-a928-caa88b3b9bd5)
 
 (Prior to begnning the analysis, a variety of checks were conducted for quality control and famaliarization with the dataset.)
