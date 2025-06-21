@@ -7,17 +7,17 @@ The goal is to predict which….
 ### Table of Contents
 [Background and Overview](#1-Background-and-Overview)
 <br>
-[Data Sources](2.Data-Sources-)
+[Data Sources](#2-Data-Sources-)
 <br>
 [Tools](#3-Tools)
 <br>
-[Data Cleaning/Preparation](4.Data-Cleaning/Preparation-)
+[Data Cleaning/Preparation](#4-Data-Cleaning/Preparation-)
 <br>
-[Data Structure Overview](5.Data-Structure-Overview-)
+[Data Structure Overview](#5-Data-Structure-Overview-)
 <br>
-[Recommendations](6.Recommendations-)
+[Recommendations](#6-Recommendations-)
 <br>
-[References](7.References-)
+[References](#7-References-)
 
 ### 1. Background and Overview
 #### Project Background--
