@@ -5,11 +5,11 @@ This study uses SQL to…
 The goal is to predict which….
 
 ### Table of Contents
-[Background and Overview](1.Background-and-Overview-)
+[Background and Overview](1.-Background-and-Overview)
 <br>
 [Data Sources](2.Data-Sources-)
 <br>
-[Tool](3.Tools-)
+[Tool](3.-Tools-)
 <br>
 [Data Cleaning/Preparation](4.Data-Cleaning/Preparation-)
 <br>
@@ -19,7 +19,7 @@ The goal is to predict which….
 <br>
 [References](7.References-)
 
-### 1. Background and Overview- 
+### 1. Background and Overview
 #### Project Background--
 Monday Coffee, established in January 2023, has successfully sold its products online and received an overwhelmingly positive respone in several cities.
 <br>
