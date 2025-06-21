@@ -1,8 +1,5 @@
 # SQL_P1_Monday_Coffee
 ### Data Analysis Project 1 (SQL)
-This study uses SQL to…
-<br>
-The goal is to predict which….
 
 ### Table of Contents
 [Background and Overview](#1-Background-and-Overview-)
@@ -49,9 +46,9 @@ The goal of this project is to analyze the sales data of Monday Coffee, and to r
 
 ### 2. Data Sources-
 #### Sales Data--  The primary dataset used for this analysis is the "sales_sql.csv" file, containing detailed information about each sale made by the company.
-#### Customers Data--
-#### Products Data--
-#### City Data--
+#### Customers Data--  "customers.csv" file, containing detailed information about their each current cutomer's name, id, and city id they belong to.
+#### Products Data--  "products.csv" file, containing detailed information about each product company offers.
+#### City Data--  "city.csv" file, containing detailed information about each city where Monday Coffee operates.
 
 ### 3. Tools-
 - Excel - Data Cleaning/Transfromation
@@ -68,7 +65,7 @@ EER Diagram
 Monday coffee data structure as seen below consists of four tables: sales, customers, products, and city with a total row count of 10,927.
 ![Screenshot (112)](https://github.com/user-attachments/assets/d9f2c697-43a2-4c75-a928-caa88b3b9bd5)
 
-(Prior to begnning the analysis, a variety of checks were conducted for quality control and famaliarization with the dataset. The SQL quaries utilized to instep and perform quality check can be found here.)
+(Prior to begnning the analysis, a variety of checks were conducted for quality control and famaliarization with the dataset.)
 
 ### 6. Recommendations-
 Based on the analysis, we recommend the following actions:
@@ -115,8 +112,6 @@ referral programs to increase average order value.
 Maintain limited marketing presence. Focus on digital-only sales while monitoring market
 trends and consumer behavior.
 
-### 7. References-
-[YT1](https://youtu.be/ZZEP4ZRnDaU?si=7l5_xzD22_3q3MGK)
 
 
 
