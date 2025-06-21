@@ -1,17 +1,23 @@
 # SQL_P1_Monday_Coffee
-## Data Analysis Project 1 (SQL)
+### Data Analysis Project 1 (SQL)
 This study uses SQL to…
 <br>
 The goal is to predict which….
 
-### . Table of Contents
-[Background and Overview](#1.Background-and-Overview-)
-
-😃
-**bold**
-*italic*
----
-line
+### Table of Contents
+[Background and Overview](1.Background-and-Overview-)
+<br>
+[Data Sources](2.Data-Sources-)
+<br>
+[Tool](3.Tools-)
+<br>
+[Data Cleaning/Preparation](4.Data-Cleaning/Preparation-)
+<br>
+[Data Structure Overview](5.Data-Structure-Overview-)
+<br>
+[Recommendations](6.Recommendations-)
+<br>
+[References](7.References-)
 
 ### 1. Background and Overview- 
 #### Project Background--
@@ -56,21 +62,7 @@ The goal of this project is to analyze the sales data of Monday Coffee, and to r
 - Data loading and inspection.
 - Data cleaning and formating.
 
-### 5. Data Analysis-
-include some code you worked with
-
-### 6. Results/Findings-
-The analysis results are summarized as follows:
-
-### 7. Recommendations-
-Based on the analysis, we recommend the following actions:
-
-### 8. Limitations-
-remove or exclude recordes to do analysis
-
-### 9. References-
-
-### 10.	Data Structure Overview-
+### 5.	Data Structure Overview-
 EER Diagram
 <br>
 Monday coffee data structure as seen below consists of four tables: sales, customers, products, and city with a total row count of 10,927.
@@ -78,19 +70,53 @@ Monday coffee data structure as seen below consists of four tables: sales, custo
 
 (Prior to begnning the analysis, a variety of checks were conducted for quality control and famaliarization with the dataset. The SQL quaries utilized to instep and perform quality check can be found here.)
 
-### 11. Executive Summary –  summary about main findings (BI)
+### 6. Recommendations-
+Based on the analysis, we recommend the following actions:
 
-Sales trends
-Product performance 
+#### Pune - Ideal Expansion Market
 
-### 12.	Insights Deep Dive – 
+##### Rationale:
+- Highest average sales per customer
+- 1st highest in total revenue
+- Strong current customer base
+- low rent among cities with high revenue
+  
+##### Recommendation: 
+Prioritize Pune for expansion, new product launches, and marketing campaigns. Consider
+setting up a flagship store or warehouse to leverage both high sales and low costs.
 
--	Quantified value
--	Business metric
--	Simple story about historical trend
+#### Chennai - Strategic Growth Opportunity
 
-### 6.	Recommendations- 
+##### Rationale:
+- 2nd highest in both average sales per customer and overall revenue
+- Good potential based on estimated number of coffee consumers
+  
+##### Recommendation: 
+Strengthen brand visibility in Chennai through influencer marketing and localized
+campaigns. Explore partnership with delivery platforms to scale last-mile sales.
 
--	Usefulness of project
+#### Jaipur - High-Potential Emerging Market
+
+##### Rationale:
+- Lowest average rent per customer across cities with high revenue
+- Highest number of active current customers
+- Solid performance in both sales and revenue/ Average sales per customer is better
+  
+##### Recommendation:
+Consider Jaipur for cost-efficient warehousing or logistics hub. Run targeted loyalty and
+referral programs to increase average order value.
+
+#### Nagpur, Kanpur, Indore, Lucknow - Low-Priority or Watchlist Cities
+
+- Low estimated customer base and/or low average sales per customer
+- High cost-to-revenue ratio if expanded prematurely
+  
+#### Recommendation:
+Maintain limited marketing presence. Focus on digital-only sales while monitoring market
+trends and consumer behavior.
+
+### 7. References-
+[YT1](https://youtu.be/ZZEP4ZRnDaU?si=7l5_xzD22_3q3MGK)
+
 
 
