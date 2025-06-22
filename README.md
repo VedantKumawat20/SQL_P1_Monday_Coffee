@@ -101,8 +101,8 @@ campaigns. Explore partnership with delivery platforms to scale last-mile sales.
 - Solid performance in both sales and revenue/ Average sales per customer is better
   
 ##### Recommendation:
-Consider Jaipur for cost-efficient warehousing or logistics hub. Run targeted loyalty and
-referral programs to increase average order value.
+Consider Jaipur for cost-efficient warehousing or logistics hub. Runing targeted loyalty and
+referral programs could increase average order value.
 
 #### Nagpur, Kanpur, Indore, Lucknow - Low-Priority or Watchlist Cities
 
@@ -112,6 +112,40 @@ referral programs to increase average order value.
 #### Recommendation:
 Maintain limited marketing presence. Focus on digital-only sales while monitoring market
 trends and consumer behavior.
+
+---
+##### [The results are generated from the execution of queries within the SQL file. The outputs below correspond to the results of the SQL queries. The question numbers align with those in the SQL file.]
+
+Q1
+![PQ1](https://github.com/user-attachments/assets/80b9bd12-09d3-4b34-a348-cdf5f8912594)
+
+Q2
+![PQ2](https://github.com/user-attachments/assets/532a3ee1-8a1a-41bc-a603-f70af2c2a1dc)
+
+Q3
+![PQ3](https://github.com/user-attachments/assets/85a9c257-c4e0-439a-a81a-05875c00479a)
+
+Q4
+![PQ4](https://github.com/user-attachments/assets/0b90f594-437a-43ab-88d5-b8f70d2ab6a0)
+
+Q5
+![PQ5](https://github.com/user-attachments/assets/401cfafa-da94-4d19-9be2-251e7b469cbe)
+
+Q6
+![PQ6](https://github.com/user-attachments/assets/f649550d-26d9-4d42-851f-1c7d9a1087ee)
+
+Q7
+![PQ7](https://github.com/user-attachments/assets/d55e693f-e4d5-4dcb-b844-c76518bf5e3a)
+
+Q8
+![PQ8](https://github.com/user-attachments/assets/26718581-3de2-4fb9-bc56-5490d2dee0d0)
+
+Q10
+![PQ10](https://github.com/user-attachments/assets/230c5d4a-68a8-44b3-b622-3ec31af1c9cb)
+
+
+
+
 
 
 
