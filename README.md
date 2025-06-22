@@ -13,8 +13,7 @@
 [Data Structure Overview](#5-Data-Structure-Overview-)
 <br>
 [Recommendations](#6-Recommendations-)
-<br>
-[References](#7-References-)
+
 
 ### 1. Background and Overview-
 #### Project Background--
